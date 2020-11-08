@@ -1,3 +1,6 @@
+FRIENDS_MEET= 0.3
+JUST_MEET = 0.05
+
 class Human:
     def __init__(state,city,friends,awareness):
         self.state = state
@@ -14,6 +17,8 @@ class Human:
         if self.state = 'i':
             if random()<0.1:
                 self.state = 'r'
+
+def willMeet(h1,h2):
 
 
 
