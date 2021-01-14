@@ -6,7 +6,7 @@ Mandating the use of masks is almost regarded as a universal protocol responding
 
 ***How to Use***
 
-Download any programming application that supports python using your browser. Once that has been completed, reference the links below that will redirect you to my GitHub pages containing the projects. Download and open them in the application. To see changes in the transmission rates, modify the variables listed at the top of the file entitled human.py. Here are the list of the variables and what they represent:
+Download any programming application that supports python using your browser. Once that has been completed, downlead and open the file named 'human.py'. To see changes in the transmission rates, modify the variables listed at the top of the file entitled human.py. Here are the list of the variables and what they represent:
 
 * FRIENDS_MEET: The chance that two friends will meet
 * JUST_MEET: The chance that any two random strangers will meet
